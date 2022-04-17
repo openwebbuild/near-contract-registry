@@ -2,9 +2,8 @@
 
 **Why Contract Registry?**
 
-> It's frequently asked by developers about where to find the mainnet/testnet contract accounts, DApp URLs and source code of the smart contracts on NEAR. To make the contract metadata more discoverable, we created this summary page to make it easier to find all the necessary information about the contracts of the core projects on NEAR. 
-> 
-> The contract registry also helps improve the ecosystem security. For example, if the user is connecting the contract from a dapp URL that doesn't match with the contract address, the wallet will warn the user of potential risks.
+1. Improve contract metadata discoverability. It's frequently asked by developers about where to find the mainnet/testnet contract accounts, DApp URLs and source code of the smart contracts on NEAR. To make the contract metadata more discoverable, we created this contract registry to make it easy to find all the necessary information about the contracts of the core projects on NEAR. 
+2. Improve user security. The contract registry can be leveraged by security infrastructure in the ecosystem such as wallet to verify the contract and dapps when user access them. For example, if the user is connecting the contract from a dapp URL that doesn't match with the contract address in the registry, the wallet will warn the user of potential risks.
  
 
 ## Contract Metadata
@@ -39,6 +38,7 @@ For CSV version of the table, check out [here](/near-contract-registry.csv)
 
 This repo is only the initial version of the contract registry, and we'll add more enhancements later. 
 
+- [ ] Add more contract metadata such as owners (single account or DAO), security auditors, etc.
 - [ ] Create mainnet / testnet contract registry for storing the contract metadata that could be updated by the project DAOs or owners.
 - [ ] Turn the contract registry to be maintained by a developer DAO from NEAR developer community.
 
