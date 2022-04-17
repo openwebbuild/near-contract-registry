@@ -37,7 +37,6 @@ The testnet contracts and app URLs are usually helpful when developers are build
 
 This repo is only the initial version of the contract registry, and we'll add more enhancements later. 
 
-- [ ] Save the table into CSV file that can be queried from any clients or user interfaces.
 - [ ] Create mainnet / testnet contract registry for storing the contract metadata that could be updated by the project DAOs or owners.
 - [ ] Turn the contract registry to be maintained by a developer DAO from NEAR developer community.
 
