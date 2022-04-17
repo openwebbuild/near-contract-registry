@@ -48,6 +48,7 @@ This repo is only the initial version of the contract registry, and we'll add mo
 - [ ] For dapps that used multiple contracts, list all the contracts' metadata. Now we only include the core contracts for the dapps.  
 - [ ] Create mainnet / testnet contract registry for storing the contract metadata that could be updated by the project DAOs or owners.
 - [ ] Turn the contract registry to be maintained by a developer DAO from NEAR developer community.
+- [ ] Follow [NEP-330](https://github.com/near/NEPs/blob/master/neps/nep-0330.md) for reading and managing the contract metadata.
 
 ## How to Contribute
 
