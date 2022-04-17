@@ -1,9 +1,9 @@
 # NEAR Contract Registry
 
-**Why Contract Registry?**
+## Why Contract Registry?
 
-1. Improve contract metadata discoverability. It's frequently asked by developers about where to find the mainnet/testnet contract accounts, DApp URLs and source code of the smart contracts on NEAR. To make the contract metadata more discoverable, we created this contract registry to make it easy to find all the necessary information about the contracts of the core projects on NEAR. 
-2. Improve user security. The contract registry can be leveraged by security infrastructure in the ecosystem such as wallet to verify the contract and dapps when user access them. For example, if the user is connecting the contract from a dapp URL that doesn't match with the contract address in the registry, the wallet will warn the user of potential risks.
+1. **Improve contract metadata discoverability.** It's frequently asked by developers about where to find the mainnet/testnet contract accounts, DApp URLs and source code of the smart contracts on NEAR. To make the contract metadata more discoverable, we created this contract registry to make it easy to find all the necessary information about the contracts of the core projects on NEAR. 
+2. **Improve user security.** The contract registry can be leveraged by security infrastructure in the ecosystem such as wallet to verify the contract and dapps when user access them. For example, if the user is connecting the contract from a dapp URL that doesn't match with the contract address in the registry, the wallet will warn the user of potential risks.
  
 
 ## Contract Metadata
@@ -34,11 +34,18 @@ For CSV version of the table, check out [here](/near-contract-registry.csv)
 | [Skyward](https://awesomenear.com/skyward-finance) | [skyward-finance/contracts](https://github.com/skyward-finance/contracts) | [skyward.near](https://explorer.near.org/accounts/skyward.near) | https://app.skyward.finance | [skyward.testnet](https://explorer.testnet.near.org/accounts/skyward.testnet) | https://test.skyward.finance |
 | [Meta Pool](https://awesomenear.com/meta-pool) | [Narwallets/meta-pool](https://github.com/Narwallets/meta-pool) | [meta-pool.near](https://explorer.near.org/accounts/meta-pool.near) | https://metapool.app/dapp/mainnet/meta | [meta-v2.pool.testnet](https://explorer.testnet.near.org/accounts/meta-v2.pool.testnet) | https://metapool.app/dapp/testnet/meta |
 
-## What's Next?
+## How do you collect the metadata?
+
+We refer to [AwesomeNEAR](https://awesomenear.com/) for searching the basic descriptions of the projects. 
+
+However, most contract metadata are not listed there, we confirmed the open source repository location, dapp URLs, and contract accounts based on own knowledge about the projects if not found on AwesomeNEAR, and verified the contract IDs by interacting the apps with our NEAR accounts, and confirmed in NEAR Explorer. 
+
+## What's Next
 
 This repo is only the initial version of the contract registry, and we'll add more enhancements later. 
 
 - [ ] Add more contract metadata such as owners (single account or DAO), security auditors, etc.
+- [ ] For dapps that used multiple contracts, list all the contracts' metadata. Now we only include the core contracts for the dapps.  
 - [ ] Create mainnet / testnet contract registry for storing the contract metadata that could be updated by the project DAOs or owners.
 - [ ] Turn the contract registry to be maintained by a developer DAO from NEAR developer community.
 
