@@ -22,6 +22,8 @@ The currently supported metadata includes
 
 The testnet contracts and app URLs are usually helpful when developers are building their new contracts / DApps.
 
+For CSV version of the table, check out [here](/near-contract-registry.csv)
+
 | Project | Contract Source | Mainnet Contract | Mainnet App | Testnet Contract | Testnet App
 | -------- | -------- | -------- | -------- | -------- | -------- |
 | [Aurora](https://awesomenear.com/aurora-dev) | [aurora-is-near/aurora-engine](https://github.com/aurora-is-near/aurora-engine) | [aurora](https://explorer.near.org/accounts/aurora) | https://aurora.dev/start | [aurora](https://explorer.testnet.near.org/accounts/aurora) | https://aurora.dev/start |
