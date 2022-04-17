@@ -44,4 +44,4 @@ This repo is only the initial version of the contract registry, and we'll add mo
 
 ## How to Contribute
 
-For any suggestions, or you'd like to add your projects, please feel free to create pull requests or submit issues.
+If you have any suggestions of improving the contract registry, or if you'd like to add your own projects, please feel free to create pull requests or submit issues.
