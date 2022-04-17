@@ -38,7 +38,7 @@ For CSV version of the table, check out [here](/near-contract-registry.csv)
 
 We refer to [AwesomeNEAR](https://awesomenear.com/) for searching the basic descriptions of the projects. 
 
-However, most contract metadata are not listed there, we confirmed the open source repository location, dapp URLs, and contract accounts based on own knowledge about the projects if not found on AwesomeNEAR, and verified the contract IDs by interacting the apps with our NEAR accounts, and confirmed in NEAR Explorer. 
+However, most contract metadata are not listed there. We found the open source repository location, dapp URLs, and contract accounts based on own knowledge about the projects if not found on AwesomeNEAR, and verified the contract IDs by interacting the apps with our NEAR accounts, and confirmed in NEAR Explorer. If you have any metadata that is incorrect, please report via issues or pull requests. 
 
 ## What's Next
 
