@@ -1,10 +1,10 @@
-Project,Contract Source,Mainnet Contract,Mainnet App,Testnet Contract,Testnet App,
-Aurora,https://github.com/aurora-is-near/aurora-engine,aurora,https://aurora.dev/start,aurora,https://aurora.dev/start,
-Rainbow Bridge,https://github.com/aurora-is-near/rainbow-bridge,aurora,https://rainbowbridge.app,aurora,https://testnet.rainbowbridge.app,
-Ref Finance,https://github.com/ref-finance/ref-contracts,v2.ref-finance.near,https://app.ref.finance,exchange.ref-dev.testnet,https://testnet.ref.finance,
-Paras,https://github.com/ParasHQ/paras-marketplace-contract,marketplace.paras.near,https://paras.id,paras-marketplace-v2.testnet,https://testnet.paras.id,
-Mintbase,https://github.com/Mintbase/mintbase-core,mintbase1.near,https://mintbase.io,mintspace2.testnet,https://testnet.mintbase.io,
-AstroDAO,https://github.com/near-daos/sputnik-dao-contract,sputnik-dao.near,https://app.astrodao.com,sputnikv2.testnet,https://testnet.app.astrodao.com,
-Skyward,https://github.com/skyward-finance/contracts,skyward.near,https://app.skyward.finance,skyward.testnet,https://test.skyward.finance,
-Meta Pool,https://github.com/Narwallets/meta-pool,meta-pool.near,https://metapool.app/dapp/mainnet/meta,meta-v2.pool.testnet,https://metapool.app/dapp/testnet/meta,
+Project,Contract Source,Mainnet Contract,Mainnet App,Testnet Contract,Testnet App
+Aurora,https://github.com/aurora-is-near/aurora-engine,aurora,https://aurora.dev/start,aurora,https://aurora.dev/start
+Rainbow Bridge,https://github.com/aurora-is-near/rainbow-bridge,aurora,https://rainbowbridge.app,aurora,https://testnet.rainbowbridge.app
+Ref Finance,https://github.com/ref-finance/ref-contracts,v2.ref-finance.near,https://app.ref.finance,exchange.ref-dev.testnet,https://testnet.ref.finance
+Paras,https://github.com/ParasHQ/paras-marketplace-contract,marketplace.paras.near,https://paras.id,paras-marketplace-v2.testnet,https://testnet.paras.id
+Mintbase,https://github.com/Mintbase/mintbase-core,mintbase1.near,https://mintbase.io,mintspace2.testnet,https://testnet.mintbase.io
+AstroDAO,https://github.com/near-daos/sputnik-dao-contract,sputnik-dao.near,https://app.astrodao.com,sputnikv2.testnet,https://testnet.app.astrodao.com
+Skyward,https://github.com/skyward-finance/contracts,skyward.near,https://app.skyward.finance,skyward.testnet,https://test.skyward.finance
+Meta Pool,https://github.com/Narwallets/meta-pool,meta-pool.near,https://metapool.app/dapp/mainnet/meta,meta-v2.pool.testnet,https://metapool.app/dapp/testnet/meta
 USN,https://github.com/DecentralBankDAO/usn,usn,https://decentral-bank.finance,usdn.testnet,https://decentral-bank.finance
